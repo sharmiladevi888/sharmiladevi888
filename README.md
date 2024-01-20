@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sharmiladevi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="cool" width="500" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gi](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1647113165541-29U4GRDKFW2D0G5EU69Q/33ae06d2f4f62bf0710791d257bd302f.gif)f">
+<img align="center" alt="cool" width="500" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1647113165541-29U4GRDKFW2D0G5EU69Q/33ae06d2f4f62bf0710791d257bd302f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmiladevi888&label=Profile%20views&color=0e75b6&style=flat" alt="sharmiladevi888" /> </p>
